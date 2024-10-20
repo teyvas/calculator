@@ -24,7 +24,8 @@ This is a simple calculator application built using JavaFX. It supports basic ar
 
     Use the number buttons (0-9) to input numbers.
     Use the operator buttons (+, -, *, /) to perform operations.
-    Press = to compute the result.
+    ![Screenshot_2024-10-20_22-43-41](https://github.com/user-attachments/assets/879c6892-d3ed-44d1-b32a-6391eea1c3c2)
+Press = to compute the result.
     Use the C button to clear the input and reset the calculation.
     
 
@@ -37,3 +38,5 @@ This is a simple calculator application built using JavaFX. It supports basic ar
     * Implements the calculate() method to perform the chosen operation.\
     * Throws ArithmeticException for invalid operations like division by zero.
 
+![Screenshot_2024-10-20_22-43-41](https://github.com/user-attachments/assets/2b6592a0-c62c-4222-9e5d-36a55effea6b)
+![Screenshot_2024-10-20_22-42-34](https://github.com/user-attachments/assets/9c23ad03-4e35-43ed-a992-3f9cdb1cac29)
